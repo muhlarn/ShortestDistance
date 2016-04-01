@@ -1,0 +1,1 @@
+cp /Users/bay/nk/dev/workspace_mine/gs-accessing-data-rest/complete/target/gs-accessing-data-rest-0.1.0.war /Users/bay/nk/dev/wildfly-9.0.0.Final/standalone/deployments/
